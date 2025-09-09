@@ -9,10 +9,15 @@ A Python-based voice assistant that listens to your voice commands and performs 
 🧠 Command Handling: Supports multiple commands:
 
 "Tell me a joke"
+
 "What is the news"
+
 "Take a note"
+
 "What time is it"
+
 "Open Google"
+
 "Exit"
 
 🔊 Spoken Responses: Uses pyttsx3 for text-to-speech output.
