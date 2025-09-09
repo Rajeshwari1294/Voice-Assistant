@@ -2,7 +2,10 @@ Voice-Controlled Assistant
 
 A Python-based voice assistant that listens to your voice commands and performs useful actions like telling jokes, reading news, saving notes, and more.
 
-1. Features
+## 📑 Project Report
+You can read the full project report here: [Download Project Report (PDF)]("C:\Users\rajes\OneDrive\Desktop\voice_assistant_project_report.pdf")
+
+## Features
 
 🎤 Voice Input: Speech-to-text conversion for hands-free interaction.
 
@@ -26,20 +29,20 @@ A Python-based voice assistant that listens to your voice commands and performs 
 
 🛠️ Extensible: Easy to add new commands and modules.
 
-2. Requirements
+## Requirements
    
 Python 3.6+
 
-3. Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
 
-4. Usage
+## Usage
 
 Run the assistant:
 python assistant.py
 
-5. Then say a supported command, for example:
+## Then say a supported command, for example:
 
 "Tell me a joke"
 
@@ -53,11 +56,13 @@ python assistant.py
 
 "Exit"
 
-6. Project Structure
+## Project Structure
    
-├── assistant.py       # Main script  
-├── requirements.txt   # Dependencies  
-├── notes.txt          # Saved voice notes (auto-created)  
-└── README.md          # Project info  
+├── assistant.py        # Main script
+├── requirements.txt    # Dependencies
+├── notes.txt           # Saved voice notes (auto-created)
+├── Project_Report.pdf  # Project report
+└── README.md           # Project info
+
 
 Developed by Annamdas Rajeshwari
