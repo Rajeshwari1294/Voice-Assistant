@@ -3,7 +3,7 @@ Voice-Controlled Assistant
 A Python-based voice assistant that listens to your voice commands and performs useful actions like telling jokes, reading news, saving notes, and more.
 
 ## 📑 Project Report
-You can read the full project report here: [Download Project Report (PDF)]("C:\Users\rajes\OneDrive\Desktop\voice_assistant_project_report.pdf")
+You can read the full project report here: [Download Project Report (PDF)](voice_assistant_project_report.pdf)
 
 ## Features
 
