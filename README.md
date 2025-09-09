@@ -2,7 +2,7 @@ Voice-Controlled Assistant
 
 A Python-based voice assistant that listens to your voice commands and performs useful actions like telling jokes, reading news, saving notes, and more.
 
-Features
+1.Features
 
 🎤 Voice Input: Speech-to-text conversion for hands-free interaction.
 
@@ -19,17 +19,17 @@ Features
 📓 Notes Support: Saves notes to notes.txt automatically.
 🛠️ Extensible: Easy to add new commands and modules.
 
-Requirements
+2. Requirements
 Python 3.6+
 
-Install dependencies:
+3. Install dependencies:
 pip install -r requirements.txt
 
-Usage
+4. Usage
 Run the assistant:
 python assistant.py
 
-Then say a supported command, for example:
+5. Then say a supported command, for example:
 
 "Tell me a joke"
 "What is the news"
@@ -38,7 +38,7 @@ Then say a supported command, for example:
 "Open Google"
 "Exit"
 
-Project Structure
+6. Project Structure
 ├── assistant.py       # Main script  
 ├── requirements.txt   # Dependencies  
 ├── notes.txt          # Saved voice notes (auto-created)  
