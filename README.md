@@ -27,6 +27,7 @@ A Python-based voice assistant that listens to your voice commands and performs 
 🛠️ Extensible: Easy to add new commands and modules.
 
 2. Requirements
+   
 Python 3.6+
 
 3. Install dependencies:
@@ -34,6 +35,7 @@ Python 3.6+
 pip install -r requirements.txt
 
 4. Usage
+
 Run the assistant:
 python assistant.py
 
@@ -52,6 +54,7 @@ python assistant.py
 "Exit"
 
 6. Project Structure
+   
 ├── assistant.py       # Main script  
 ├── requirements.txt   # Dependencies  
 ├── notes.txt          # Saved voice notes (auto-created)  
