@@ -60,9 +60,13 @@ python assistant.py
 # Project Structure
    
 ├── assistant.py        # Main script
+
 ├── requirements.txt    # Dependencies
+
 ├── notes.txt           # Saved voice notes (auto-created)
+
 ├── Project_Report.pdf  # Project report
+
 └── README.md           # Project info
 
 
